@@ -1,3 +1,3 @@
 # datacard_production
-git clone jk
-git clone njj
+git clone jk.
+git clone njj.
