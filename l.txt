@@ -1,1 +1,1000 @@
-tt
+   18  2022-04-10 18:56:11 screen -dr 7
+   19  2022-04-10 18:56:17 htop -u snanda
+   20  2022-04-10 18:59:40 screen -dr 7
+   21  2022-04-10 19:00:02 htop -u snanda
+   22  2022-04-10 21:18:52 screen -dr 7
+   23  2022-04-10 21:20:40 htop -u snanda
+   24  2022-04-10 21:24:42 screen -dr 7
+   25  2022-04-10 21:25:12 htop -u snanda
+   26  2022-04-10 21:42:42 screen -dr 7
+   27  2022-04-10 21:46:53 htop -u snanda
+   28  2022-04-10 21:46:57 htop -u snandan
+   29  2022-04-10 21:47:13 screen -dr 7
+   30  2022-04-10 21:48:32 htop -u snandan
+   31  2022-04-10 21:49:36 screen -dr 7
+   32  2022-04-10 21:50:07 ls -ltrh /hdfs/local/snandan/hhAnalysis/2016/
+   33  2022-04-10 21:50:12 ls -ltrh /hdfs/local/snandan/hhAnalysis/2017
+   34  2022-04-10 21:50:33 ls -ltrh /hdfs/local/snandan/hhAnalysis/2018
+   35  2022-04-10 21:50:39 htop -u snandan
+   36  2022-04-10 21:55:17 screen -dr 7
+   37  2022-04-10 21:55:21 htop -u snandan
+   38  2022-04-10 22:18:04 screen -dr 7
+   39  2022-04-10 22:18:10 htop -u snandan
+   40  2022-04-10 22:19:35 getfattr --help
+   41  2022-04-10 22:20:18 htop -u snandan
+   42  2022-04-10 22:26:46 screen -dr 7
+   43  2022-04-10 22:29:44 screen -dr 3011
+   44  2022-04-10 22:38:44 htop -u snandan
+   45  2022-04-10 22:39:43 screen -dr 7
+   46  2022-04-10 22:40:21 htop -u snandan
+   47  2022-04-10 22:40:26 screen -dr 3011
+   48  2022-04-10 22:41:27 htop -u snandan
+   49  2022-04-10 22:41:30 screen -dr 7
+   50  2022-04-10 22:42:10 htop -u snandan
+   51  2022-04-10 22:42:12 screen -dr 3011
+   52  2022-04-10 22:42:30 htop -u snandan
+   53  2022-04-10 22:43:12 screen -dr 3011
+   54  2022-04-10 22:43:29 screen -dr 7
+   55  2022-04-10 22:43:48 screen -dr 3011
+   56  2022-04-10 22:45:44 screen -dr 7
+   57  2022-04-11 07:54:52 htop -u snandan
+   58  2022-04-11 08:01:23 screen -dr 7
+   59  2022-04-11 08:01:53 htop -u snandan
+   60  2022-04-11 08:15:43 screen -dr 7
+   61  2022-04-11 08:16:11 htop -u snandan
+   62  2022-04-11 08:22:23 screen -dr 7
+   63  2022-04-11 08:23:05 ls -ltrh cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/*root
+   64  2022-04-11 08:23:57 scp  cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/fitDiagnostics_HH_boosted_700_2018.root snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/resonant*
+   65  2022-04-11 08:24:13 screen -dr 7
+   66  2022-04-11 08:24:18 htop -u snandan
+   67  2022-04-11 08:28:11 screen -dr 7
+   68  2022-04-11 08:28:45 screen -dr 3011
+   69  2022-04-11 08:31:02 htop -u snandan
+   70  2022-04-11 08:31:40 screen -dr 7
+   71  2022-04-11 08:32:17 htop -u snandan
+   72  2022-04-11 08:41:35 screen -dr 7
+   73  2022-04-11 08:41:39 screen -dr 3011
+   74  2022-04-11 08:42:06 htop -u snandan
+   75  2022-04-11 08:43:03 screen -dr 3011
+   76  2022-04-11 08:46:23 htop -u snandan
+   77  2022-04-11 09:17:24 screen -dr 3011
+   78  2022-04-11 09:17:28 screen -dr 7
+   79  2022-04-11 09:18:33 screen -dr 3011
+   80  2022-04-11 09:18:37 screen -dr 7
+   81  2022-04-11 09:21:37 htop -u snandan
+   82  2022-04-11 09:37:26 screen -dr 3011
+   83  2022-04-11 09:38:01 htop -u snandan
+   84  2022-04-11 09:44:28 screen -dr 3011
+   85  2022-04-11 09:44:49 htop -u snandan
+   86  2022-04-11 09:45:20 screen -dr 7
+   87  2022-04-11 09:45:40 ls -ltrh /hdfs/local/snandan/hhAnalysis/2016/
+   88  2022-04-11 09:46:08 ls -ltrh /hdfs/local/snandan/hhAnalysis/2017
+   89  2022-04-11 09:46:21 ls -ltrh /hdfs/local/snandan/hhAnalysis/2017final_bb1l_LBN_resonant_sigweight1_correlation
+   90  2022-04-11 09:46:29 ls -ltrh /hdfs/local/snandan/hhAnalysis/2017/final_bb1l_LBN_resonant_sigweight1_correlation
+   91  2022-04-11 09:46:39 screen -dr 3011
+   92  2022-04-11 09:47:10 htop -u snandan
+   93  2022-04-11 10:07:45 screen -dr 3011
+   94  2022-04-11 10:08:03 htop -u snandan
+   95  2022-04-11 10:18:05 screen -dr 3011
+   96  2022-04-11 10:18:11 screen -ls
+   97  2022-04-11 10:18:16 screen -r 11
+   98  2022-04-11 10:18:30 screen kill 1188803
+   99  2022-04-11 10:18:36 screen -r 254
+  100  2022-04-11 10:19:01 screen -r 3011
+  101  2022-04-11 10:19:26 screen -r 254
+  102  2022-04-11 10:19:30 screen -r 3011
+  103  2022-04-11 10:19:47 screen -r 254
+  104  2022-04-11 10:45:47 htop -u snandan
+  105  2022-04-11 10:50:13 screen -r 254
+  106  2022-04-11 10:56:41 htop -u snandan
+  107  2022-04-11 11:46:22 screen -r 3011
+  108  2022-04-11 11:48:16 screen -r 7
+  109  2022-04-11 11:48:42 scp  cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/fitDiagnostics_HH_boosted_800_2018.root snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/resonant*
+  110  2022-04-11 11:48:59 htop -u snandan
+  111  2022-04-11 11:57:02 screen -r 7
+  112  2022-04-11 12:00:57 htop -u snandan
+  113  2022-04-11 12:39:35 screen -r 7
+  114  2022-04-11 12:39:41 screen -r 3011
+  115  2022-04-11 12:39:50 screen -r 7
+  116  2022-04-11 12:40:45 screen -r 3011
+  117  2022-04-11 12:41:05 screen -r 7
+  118  2022-04-11 12:41:15 htop -u snandan
+  119  2022-04-11 13:02:55 screen -r 7
+  120  2022-04-11 13:03:21 htop -u snandan
+  121  2022-04-11 13:18:41 screen -r 7
+  122  2022-04-11 13:19:21 htop -u snandan
+  123  2022-04-11 13:29:03 screen -r 7
+  124  2022-04-11 13:29:25 screen -ls
+  125  2022-04-11 13:29:31 screen -r 218
+  126  2022-04-11 13:30:25 screen -r 7
+  127  2022-04-11 13:31:05 screen -r 218
+  128  2022-04-11 13:31:31 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/*/fitdiagnostic/*txt
+  129  2022-04-11 13:31:42 ls -ltrh datacard_oldtraining_v1/2017/res/spin0/*/fitdiagnostic/*txt
+  130  2022-04-11 13:31:52 ls -ltrh datacard_oldtraining_v1/2018/res/spin0/*/fitdiagnostic/*txt
+  131  2022-04-11 13:32:20 rm -r datacard_oldtraining_v1/201*/res/spin*/*/fitdiagnostic/
+  132  2022-04-11 13:33:33 screen -r 218
+  133  2022-04-11 13:34:48 emacs -nw job.txt
+  134  2022-04-11 13:34:56 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  135  2022-04-11 13:35:00 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  136  2022-04-11 13:35:02 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  137  2022-04-11 13:35:05 screen -r 218
+  138  2022-04-11 13:35:24 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  139  2022-04-11 13:35:39 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  140  2022-04-11 13:35:56 htop -u snandan
+  141  2022-04-11 13:36:14 screen -r 3011
+  142  2022-04-11 13:37:13 htop -u snandan
+  143  2022-04-11 13:39:17 scp datacard_oldtraining_v1/2016/res/spin2/*/datacards_rebined/*2016* snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/public/resonant_2016_spin2_oldtraining
+  144  2022-04-11 13:40:23 scp datacard_oldtraining_v1/2017/res/spin2/*/datacards_rebined/*2017* snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/public/resonant_2017_spin2_oldtraining
+  145  2022-04-11 13:41:32 scp datacard_oldtraining_v1/2018/res/spin2/*/datacards_rebined/*2018* snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/public/resonant_2018_spin2_oldtraining
+  146  2022-04-11 13:42:21 htop -u snandan
+  147  2022-04-11 13:53:15 screen -r 3011
+  148  2022-04-11 13:53:35 screen -r 218
+  149  2022-04-11 13:53:47 screen -r 7
+  150  2022-04-11 13:54:13 scp datacard_oldtraining_v1/2018/res/spin2/*/datacards_rebined/*2018* snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/public/resonant_2018_spin2_oldtraining
+  151  2022-04-11 13:55:41 scp datacard_oldtraining_v1/2016/res/spin2/*/datacards_rebined/*2016* snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/public/resonant_2016_spin2_oldtraining
+  152  2022-04-11 13:56:54 scp datacard_oldtraining_v1/2017/res/spin2/*/datacards_rebined/*2017* snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/public/resonant_2017_spin2_oldtraining
+  153  2022-04-11 13:58:29 htop
+  154  2022-04-11 14:08:44 screen -r 3011
+  155  2022-04-11 14:08:52 htop -u snandan
+  156  2022-04-11 14:20:43 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  157  2022-04-11 14:21:48 screen -ls
+  158  2022-04-11 14:21:54 screen -r 254
+  159  2022-04-11 14:21:58 htop -u snandan
+  160  2022-04-11 14:22:12 screen -r 254
+  161  2022-04-11 14:34:03 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  162  2022-04-11 14:34:06 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  163  2022-04-11 14:34:10 screen -r 3011
+  164  2022-04-11 14:35:43 htop -u snandan
+  165  2022-04-11 14:37:22 screen -r 254
+  166  2022-04-11 14:46:58 htop -u snandan
+  167  2022-04-11 15:22:38 screen -r 3011
+  168  2022-04-11 15:23:14 htop -u snandan
+  169  2022-04-11 15:26:48 screen -r 3011
+  170  2022-04-11 15:26:57 screen -r 218
+  171  2022-04-11 15:27:05 screen -ls
+  172  2022-04-11 15:27:08 screen -r 254
+  173  2022-04-11 15:28:35 htop -u snandan
+  174  2022-04-11 15:30:15 screen -r 254
+  175  2022-04-11 15:31:26 htop -u snandan
+  176  2022-04-11 15:32:32 screen -r 254
+  177  2022-04-11 15:33:42 htop -u snandan
+  178  2022-04-11 15:34:35 screen -r 254
+  179  2022-04-11 15:34:40 htop -u snandan
+  180  2022-04-11 15:49:53 screen -r 254
+  181  2022-04-11 15:50:25 htop -u snandan
+  182  2022-04-11 15:50:41 screen -r 254
+  183  2022-04-11 15:52:49 htop -u snandan
+  184  2022-04-11 15:58:58 screen -r 3011
+  185  2022-04-11 15:59:01 htop -u snandan
+  186  2022-04-11 15:59:05 screen -r 254
+  187  2022-04-11 16:02:39 htop -u snandan
+  188  2022-04-11 16:05:13 screen -r 254
+  189  2022-04-11 16:28:40 htop -u snandan
+  190  2022-04-11 16:36:42 emacs -nw job.txt
+  191  2022-04-11 16:36:55 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  192  2022-04-11 16:36:58 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  193  2022-04-11 16:37:32 htop -u snandan
+  194  2022-04-11 16:37:36 screen -r 254
+  195  2022-04-11 16:43:36 screen -r 3011
+  196  2022-04-11 16:43:43 screen -r 254
+  197  2022-04-11 16:51:10 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  198  2022-04-11 16:51:13 htop -u snandan
+  199  2022-04-11 17:13:56 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  200  2022-04-11 17:13:59 screen -r 3011
+  201  2022-04-11 17:14:05 screen -r 254
+  202  2022-04-11 17:25:08 htop -u snandan
+  203  2022-04-11 17:26:41 screen -r 254
+  204  2022-04-11 17:39:18 htop -u snandan
+  205  2022-04-11 17:48:45 screen -r 3011
+  206  2022-04-11 17:50:12 htop -u snandan
+  207  2022-04-11 17:53:33 screen -r 3011
+  208  2022-04-11 17:53:53 htop -u snandan
+  209  2022-04-11 17:55:14 screen -r 254
+  210  2022-04-11 17:55:19 htop -u snandan
+  211  2022-04-11 17:58:25 screen -r 254
+  212  2022-04-11 18:07:05 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  213  2022-04-11 18:07:09 htop -u snandan
+  214  2022-04-11 20:18:20 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  215  2022-04-11 20:18:24 screen -r 3011
+  216  2022-04-11 20:18:35 htop -u snandan
+  217  2022-04-11 20:19:04 screen -r 7
+  218  2022-04-11 20:20:34 htop -u snandan
+  219  2022-04-11 20:43:25 screen -r 7
+  220  2022-04-11 20:44:09 htop -u snandan
+  221  2022-04-11 20:49:44 screen -r 7
+  222  2022-04-11 20:50:22 screen -r 3011
+  223  2022-04-11 20:51:31 htop -u snandan
+  224  2022-04-11 20:59:51 screen -r 3011
+  225  2022-04-11 21:00:19 screen -r 7
+  226  2022-04-11 21:02:08 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  227  2022-04-11 21:02:13 htop -u snandan
+  228  2022-04-11 21:03:44 scp datacard_oldtraining_v1/2016/res/spin0/*/datacards_rebined/datacard_hh_bb*2016* snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/public/resonant_2016_oldtraining
+  229  2022-04-11 21:05:03 scp datacard_oldtraining_v1/2017/res/spin0/*/datacards_rebined/datacard_hh_bb*2017* snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/public/resonant_2017_oldtraining
+  230  2022-04-11 21:06:03 scp datacard_oldtraining_v1/2018/res/spin0/*/datacards_rebined/datacard_hh_bb*2018* snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/public/resonant_2018_oldtraining
+  231  2022-04-11 21:06:55 screen -r 7
+  232  2022-04-11 21:09:52 scp datacard_oldtraining_v1/Run2/res/spin0/datacard/combine_all_FR2_*txt snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/public/resonant_Run2_oldtraining
+  233  2022-04-11 21:10:29 scp datacard_oldtraining_v1/Run2/res/spin2/datacard/combine_all_FR2_*txt snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/public/resonant_Run2_spin2_oldtraining
+  234  2022-04-11 21:10:58 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  235  2022-04-11 21:11:06 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | wc -l
+  236  2022-04-11 21:11:32 htop -u snandan
+  237  2022-04-11 21:13:55 screen -r 3011
+  238  2022-04-11 21:14:00 htop -u snandan
+  239  2022-04-11 21:23:13 screen -r 3011
+  240  2022-04-11 21:23:19 screen -r 7
+  241  2022-04-11 21:24:14 htop -u snandan
+  242  2022-04-12 08:36:06 screen -r 3011
+  243  2022-04-12 08:37:18 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/*/fitdiagnostic/*txt
+  244  2022-04-12 08:37:33 ls -ltrh datacard_oldtraining_v1/2017/res/spin0/*/fitdiagnostic/*txt
+  245  2022-04-12 08:37:54 grep Nan datacard_oldtraining_v1/2017/res/spin0/*/fitdiagnostic/*txt
+  246  2022-04-12 08:38:03 grep nan datacard_oldtraining_v1/2017/res/spin0/*/fitdiagnostic/*txt
+  247  2022-04-12 08:38:22 ls -ltrh datacard_oldtraining_v1/2017/res/spin0/*/fitdiagnostic/*txt
+  248  2022-04-12 08:38:42 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/*/fitdiagnostic/*txt
+  249  2022-04-12 08:38:51 ls -ltrh datacard_oldtraining_v1/2018/res/spin0/*/fitdiagnostic/*txt
+  250  2022-04-12 08:39:19 ls -ltrh datacard_oldtraining_v1/2018/res/spin2/*/fitdiagnostic/*txt
+  251  2022-04-12 08:39:35 ls -ltrh datacard_oldtraining_v1/2017/res/spin2/*/fitdiagnostic/*txt
+  252  2022-04-12 08:39:45 ls -ltrh datacard_oldtraining_v1/2016/res/spin2/*/fitdiagnostic/*txt
+  253  2022-04-12 08:40:00 ls -ltrh datacard_oldtraining_v1/2016/res/spin2/*/fitdiagnostic/*root
+  254  2022-04-12 08:40:06 ls -ltrh datacard_oldtraining_v1/2016/res/spin2/*/fitdiagnostic/*root | wc -l
+  255  2022-04-12 08:40:12 ls -ltrh datacard_oldtraining_v1/2017/res/spin2/*/fitdiagnostic/*root | wc -l
+  256  2022-04-12 08:40:18 ls -ltrh datacard_oldtraining_v1/2018/res/spin2/*/fitdiagnostic/*root | wc -l
+  257  2022-04-12 08:40:24 ls -ltrh datacard_oldtraining_v1/2018/res/spin0/*/fitdiagnostic/*root | wc -l
+  258  2022-04-12 08:40:49 screen -r 3011
+  259  2022-04-12 08:41:07 screen -r7
+  260  2022-04-12 08:41:12 screen -ls
+  261  2022-04-12 08:41:16 screen -r 254
+  262  2022-04-12 08:41:24 htop -u snandan
+  263  2022-04-12 08:45:53 screen -r 7
+  264  2022-04-12 08:45:57 screen -r 254
+  265  2022-04-12 08:47:10 htop -u snandan
+  266  2022-04-12 08:54:41 screen -r 254
+  267  2022-04-12 09:08:38 htop -u snandan
+  268  2022-04-12 09:17:01 screen -r 254
+  269  2022-04-12 09:20:01 htop -u snandan
+  270  2022-04-12 09:21:30 screen -r 254
+  271  2022-04-12 09:32:21 htop -u snandan
+  272  2022-04-12 09:39:48 emacs -nw job.txt
+  273  2022-04-12 09:39:59 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  274  2022-04-12 09:40:17 htop -u snandan
+  275  2022-04-12 09:41:59 ls -ltrh datacard_oldtraining_v1/2018/res/spin0/*/fitdiagnostic/*txt
+  276  2022-04-12 09:42:18 ls -ltrh datacard_oldtraining_v1/2017/res/spin0/*/fitdiagnostic/*txt
+  277  2022-04-12 09:42:31 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/*/fitdiagnostic/*txt
+  278  2022-04-12 09:42:44 htop -u snandan
+  279  2022-04-12 09:48:04 screen -r 254
+  280  2022-04-12 09:49:13 htop -u snandan
+  281  2022-04-12 09:59:16 screen -r 254
+  282  2022-04-12 09:59:30 htop -u snandan
+  283  2022-04-12 10:00:40 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  284  2022-04-12 10:00:55 screen -r 254
+  285  2022-04-12 10:04:35 htop -u snandan
+  286  2022-04-12 10:04:57 screen -r 254
+  287  2022-04-12 10:05:03 htop -u snandan
+  288  2022-04-12 10:05:40 screen -r 254
+  289  2022-04-12 10:14:04 screen -r 3011
+  290  2022-04-12 10:14:11 screen -r 254
+  291  2022-04-12 10:18:37 htop -u snandan
+  292  2022-04-12 10:25:44 screen -r 254
+  293  2022-04-12 10:26:45 htop -u snandan
+  294  2022-04-12 10:32:47 screen -r 3011
+  295  2022-04-12 10:32:51 htop -u snandan
+  296  2022-04-12 10:55:17 screen -r 3011
+  297  2022-04-12 10:56:24 screen -r 254
+  298  2022-04-12 11:09:15 htop -u snandan
+  299  2022-04-12 11:15:37 screen -r 254
+  300  2022-04-12 11:33:09 emacs -nw /home/sbhowmik/file_list_To_delet.tex
+  301  2022-04-12 11:33:21 screen -r 254
+  302  2022-04-12 11:33:40 screen -r 3011
+  303  2022-04-12 11:34:10 screen -r 254
+  304  2022-04-12 11:37:18 screen -r 7
+  305  2022-04-12 11:38:13 htop -u snandan
+  306  2022-04-12 11:45:23 screen -r 254
+  307  2022-04-12 12:04:53 htop -u snandan
+  308  2022-04-12 12:05:02 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  309  2022-04-12 12:05:24 ls -ltrh datacard_oldtraining_v1/2017/res/spin0/*/fitdiagnostic/*txt
+  310  2022-04-12 12:05:31 htop -u snandan
+  311  2022-04-12 16:31:31 screen -r 3011
+  312  2022-04-12 16:31:47 htop -u snandan
+  313  2022-04-12 16:41:53 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  314  2022-04-12 16:42:02 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  315  2022-04-12 16:42:05 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  316  2022-04-12 16:42:11 htop -u snandan
+  317  2022-04-12 16:48:26 scp datacard_oldtraining_v1/2018/res/spin2/300/fitdiagnostic/fitDiagnostics_shapes_combine_300_spin2_all_2018.root snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/reson*
+  318  2022-04-12 16:49:23 scp datacard_oldtraining_v1/2018/res/spin2/400/fitdiagnostic/fitDiagnostics_shapes_combine_400_spin2_all_2018.root snandan@lxplus.cern.ch:/afs/cern.ch/work/s/snandan/reson*
+  319  2022-04-12 16:49:31 htop -u snandan
+  320  2022-04-12 12:54:28 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  321  2022-04-12 12:54:35 screen -r 254
+  322  2022-04-12 13:18:32 htop -u snandan
+  323  2022-04-12 13:19:52 screen -r 3011
+  324  2022-04-12 13:20:03 screen -r 254
+  325  2022-04-12 13:29:44 htop -u snandan
+  326  2022-04-12 13:42:29 root -l
+  327  2022-04-12 13:42:45 emacs -nw testZbb.C 
+  328  2022-04-12 13:43:09 screen -r 254
+  329  2022-04-12 13:44:02 htop -u snandan
+  330  2022-04-12 13:58:30 screen -r 3011
+  331  2022-04-12 13:59:54 htop -u snandan
+  332  2022-04-12 14:01:58 screen -r 254
+  333  2022-04-12 14:03:27 screen -r 3011
+  334  2022-04-12 14:03:45 htop -u snandan
+  335  2022-04-12 14:08:57 screen -r 254
+  336  2022-04-12 14:10:01 htop -u snandan
+  337  2022-04-12 14:20:03 screen -r 254
+  338  2022-04-12 14:35:12 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  339  2022-04-12 14:35:32 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  340  2022-04-12 14:35:37 screen -r 254
+  341  2022-04-12 14:36:07 screen -r 3011
+  342  2022-04-12 14:36:33 screen -r 254
+  343  2022-04-12 14:47:24 screen -r 7
+  344  2022-04-12 14:51:28 htop -u snandan
+  345  2022-04-12 14:51:46 screen -r 3011
+  346  2022-04-12 14:52:43 htop -u snandan
+  347  2022-04-12 14:53:54 screen -r 3011
+  348  2022-04-12 14:54:21 htop -u snandan
+  349  2022-04-12 14:55:28 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  350  2022-04-12 14:55:39 htop -u snandan
+  351  2022-04-12 15:27:45 screen -r 7
+  352  2022-04-12 15:29:17 htop -u snandan
+  353  2022-04-12 15:29:51 screen -r 7
+  354  2022-04-12 15:29:56 htop -u snandan
+  355  2022-04-12 15:37:06 screen -r 7
+  356  2022-04-12 15:37:26 emacs -nw cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/createDatacard.
+  357  2022-04-12 15:37:31 emacs -nw cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/createDatacard.py
+  358  2022-04-12 15:43:20 htop -u snandan
+  359  2022-04-12 15:46:17 emacs -nw cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/createDatacard.py
+  360  2022-04-12 17:19:31 cd cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/
+  361  2022-04-12 17:19:57 rm makeplot_v1*
+  362  2022-04-12 17:21:18 cd cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/
+  363  2022-04-12 17:22:02 emacs -nw make_plot_dict.py 
+  364  2022-04-12 17:22:47 emacs -nw postfit_plots.py 
+  365  2022-04-12 17:23:12 emacs -nw makefile.py 
+  366  2022-04-12 17:29:57 cmsenv
+  367  2022-04-12 17:30:00 screen -r 7
+  368  2022-04-12 17:30:48 emacs -nw makefile.py 
+  369  2022-04-12 17:31:05 screen -r 7
+  370  2022-04-12 17:31:14 emacs -nw makefile.py 
+  371  2022-04-12 17:32:08 screen -r 7
+  372  2022-04-12 17:32:14 emacs -nw makefile.py 
+  373  2022-04-12 17:32:32 screen -r 7
+  374  2022-04-12 17:32:57 emacs -nw makefile.py 
+  375  2022-04-12 17:35:51 screen -r 7
+  376  2022-04-12 17:37:33 emacs -nw makefile.py 
+  377  2022-04-12 17:37:53 screen -r 7
+  378  2022-04-12 17:38:19 emacs -nw makefile.py 
+  379  2022-04-12 17:38:35 screen -r 7
+  380  2022-04-12 17:39:19 emacs -nw makefile.py 
+  381  2022-04-12 17:40:27 screen -r 7
+  382  2022-04-12 17:40:33 emacs -nw makefile.py 
+  383  2022-04-12 17:41:00 screen -r 7
+  384  2022-04-12 17:41:04 emacs -nw makefile.py 
+  385  2022-04-12 17:41:22 screen -r 7
+  386  2022-04-12 17:41:46 emacs -nw makefile.py 
+  387  2022-04-12 17:42:03 screen -r 7
+  388  2022-04-12 17:42:12 emacs -nw makefile.py 
+  389  2022-04-12 17:42:18 screen -r 7
+  390  2022-04-12 17:42:32 emacs -nw makefile.py 
+  391  2022-04-12 17:43:21 screen -r 7
+  392  2022-04-12 17:43:28 emacs -nw makefile.py 
+  393  2022-04-12 17:43:34 screen -r 7
+  394  2022-04-12 17:43:56 emacs -nw makefile.py 
+  395  2022-04-12 17:44:12 screen -r 7
+  396  2022-04-12 17:44:19 emacs -nw makefile.py 
+  397  2022-04-12 17:44:34 screen -r 7
+  398  2022-04-12 17:44:41 emacs -nw makefile.py 
+  399  2022-04-12 17:45:05 screen -r 7
+  400  2022-04-12 17:47:21 emacs -nw makefile.py 
+  401  2022-04-12 17:48:20 screen -r 7
+  402  2022-04-12 17:49:06 emacs -nw /home/snandan/datacard_oldtraining_v1/2017/res/spin2/300/fitdiagnostic/plot_dict.dat
+  403  2022-04-12 17:49:18 screen -r 7
+  404  2022-04-12 17:49:28 emacs -nw make_plot_dict.py
+  405  2022-04-12 17:49:54 screen -r 7
+  406  2022-04-12 17:50:09 emacs -nw makefile.py 
+  407  2022-04-12 17:51:03 screen -r 7
+  408  2022-04-12 17:51:54 emacs -nw makefile.py 
+  409  2022-04-12 17:52:02 emacs -nw postfit_plots.py
+  410  2022-04-12 17:52:17 emacs -nw /home/snandan/datacard_oldtraining_v1/2017/res/spin2/300/fitdiagnostic/plot_dict.dat
+  411  2022-04-12 17:52:23 emacs -nw make_plot_dict.py
+  412  2022-04-12 17:53:04 emacs -nw /home/snandan/datacard_oldtraining_v1/2017/res/spin2/300/fitdiagnostic/plot_dict.dat
+  413  2022-04-12 17:53:13 emacs -nw make_plot_dict.py
+  414  2022-04-12 17:53:38 screen -r 7
+  415  2022-04-12 17:55:12 emacs -nw postfit_plots.py
+  416  2022-04-12 17:56:57 screen -r 7
+  417  2022-04-12 17:57:54 emacs -nw postfit_plots.py
+  418  2022-04-12 17:58:06 screen -r 7
+  419  2022-04-12 17:58:45 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  420  2022-04-12 17:59:00 htop -u snandan
+  421  2022-04-12 19:46:29 screen -r 7
+  422  2022-04-12 19:46:47 emacs -nw cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/createDatacard.py
+  423  2022-04-12 19:46:58 screen -r 7
+  424  2022-04-12 19:47:14 emacs -nw cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/createDatacard.py
+  425  2022-04-12 19:48:02 screen -r 7
+  426  2022-04-12 19:51:32 emacs -nw datacard_oldtraining_v1/Run2/res/spin0/datacard/combine_all_FR2_250_spin0.txt 
+  427  2022-04-12 19:51:42 htop -u snandan
+  428  2022-04-12 19:54:41 emacs -nw datacard_oldtraining_v1/2016/res/spin0/300/sbatch.sh 
+  429  2022-04-12 19:54:57 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/300/sbatch.sh 
+  430  2022-04-12 19:55:01 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/300/
+  431  2022-04-12 19:55:05 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/300/ | wc -l
+  432  2022-04-12 19:55:18 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/300/*300*
+  433  2022-04-12 19:55:31 rm datacard_oldtraining_v1/2016/res/spin0/300/*300*
+  434  2022-04-12 19:55:32 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/300/ | wc -l
+  435  2022-04-12 19:55:35 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/300/ 
+  436  2022-04-12 19:56:04 ls -ltrh datacard_oldtraining_v1/Run2/res/spin0/250/fitdiagnostic/
+  437  2022-04-12 19:56:12 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  438  2022-04-12 19:56:23 screen -r 7
+  439  2022-04-12 19:58:19 emacs -nw cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/createDatacard_Run2.py 
+  440  2022-04-12 19:59:14 screen -r 7
+  441  2022-04-12 19:59:43 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  442  2022-04-12 20:00:02 screen -r 7
+  443  2022-04-12 20:00:30 emacs -nw datacard_oldtraining_v1/Run2/res/spin0/Makefile
+  444  2022-04-12 20:00:44 emacs -nw /scratch-persistent/snandan/datacard_oldtraining_v1/Run2/res/spin0/250/fitdiagnostic/sbatch_fitdiagnostic_250_all_spin0.sh
+  445  2022-04-12 20:01:17 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  446  2022-04-12 20:01:48 top
+  447  2022-04-12 20:02:32 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  448  2022-04-12 20:03:40 screen -r 7
+  449  2022-04-12 20:04:01 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  450  2022-04-12 20:04:11 htop -u snandan
+  451  2022-04-12 20:04:24 emacs -nw /scratch-persistent/snandan/datacard_oldtraining_v1/Run2/res/spin0/250/fitdiagnostic/sbatch_fitdiagnostic_250_all_spin0.sh
+  452  2022-04-12 20:04:47 htop -u snandan
+  453  2022-04-12 20:04:52 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  454  2022-04-12 20:05:02 htop -u snandan
+  455  2022-04-12 20:10:22 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  456  2022-04-12 20:10:29 htop -u snandan
+  457  2022-04-12 20:12:33 sinfo
+  458  2022-04-12 20:13:30 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  459  2022-04-12 20:13:48 htop -u snandan
+  460  2022-04-12 20:22:31 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  461  2022-04-12 20:22:52 htop -u snandan
+  462  2022-04-12 20:24:02 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  463  2022-04-12 20:24:08 htop -u snandan
+  464  2022-04-12 20:25:19 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  465  2022-04-12 20:25:26 htop -u snandan
+  466  2022-04-12 20:28:46 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  467  2022-04-12 20:28:53 htop -u snandan
+  468  2022-04-12 20:29:34 emacs -nw datacard_oldtraining_v1/Run2/res/spin0/Makefile
+  469  2022-04-12 20:29:49 emacs -nw /scratch-persistent/snandan/datacard_oldtraining_v1/Run2/res/spin0/250/fitdiagnostic/sbatch_fitdiagnostic_250_all_spin0.sh
+  470  2022-04-12 20:30:24 emacs -nw hh_Analysis/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/python/sbatchManager.py
+  471  2022-04-12 20:30:35 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  472  2022-04-12 20:30:57 emacs -nw cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/create_makefile_dependency.py
+  473  2022-04-12 20:32:01 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  474  2022-04-12 20:32:11 emacs -nw cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/createDatacard_Run2.py 
+  475  2022-04-12 20:32:27 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  476  2022-04-12 20:32:32 htop -u snandan
+  477  2022-04-12 20:34:31 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  478  2022-04-12 20:34:33 htop -u snandan
+  479  2022-04-12 20:37:49 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  480  2022-04-12 20:37:53 htop -u snandan
+  481  2022-04-12 20:39:10 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  482  2022-04-12 20:39:49 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/800/fitdiagnostic/output_robust_shapes_combine_800_spin0_all_2016.txt 
+  483  2022-04-12 20:40:03 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/700/fitdiagnostic/output_robust_shapes_combine_700_spin0_all_2016.txt 
+  484  2022-04-12 20:40:07 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  485  2022-04-12 20:40:11 htop -u snandan
+  486  2022-04-12 20:41:47 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  487  2022-04-12 20:41:49 htop -u snandan
+  488  2022-04-12 20:43:45 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  489  2022-04-13 08:31:50 scancel -u snandan
+  490  2022-04-13 08:32:02 screen -r 7
+  491  2022-04-13 08:33:01 emacs -nw datacard_oldtraining_v1/Run2/res/spin2/datacard/combine_all_FR2_300_spin2.txt 
+  492  2022-04-13 08:33:05 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  493  2022-04-13 08:33:14 screen -r 7
+  494  2022-04-13 08:33:30 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  495  2022-04-13 08:33:39 screen -r 7
+  496  2022-04-13 08:33:51 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  497  2022-04-13 08:33:59 htop -u snandan
+  498  2022-04-13 08:34:11 screen -ls
+  499  2022-04-13 08:34:17 screen -r 254
+  500  2022-04-13 08:37:09 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  501  2022-04-13 08:37:37 scancel -u snadan
+  502  2022-04-13 08:37:42 scancel
+  503  2022-04-13 08:37:45 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  504  2022-04-13 08:37:50 scancel -u snandan
+  505  2022-04-13 08:37:51 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  506  2022-04-13 08:37:55 screen -r 7
+  507  2022-04-13 08:38:37 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  508  2022-04-13 08:38:41 screen -r 7
+  509  2022-04-13 08:38:51 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  510  2022-04-13 08:38:53 screen -r 7
+  511  2022-04-13 08:39:05 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  512  2022-04-13 08:39:14 screen -r 254
+  513  2022-04-13 09:00:12 screen -r 7
+  514  2022-04-13 09:00:17 screen -ls
+  515  2022-04-13 09:00:20 screen -r 254
+  516  2022-04-13 09:00:23 screen -dr 254
+  517  2022-04-13 09:12:39 htop -u snandan
+  518  2022-04-13 09:17:27 screen -dr 254
+  519  2022-04-13 09:20:38 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  520  2022-04-13 09:20:48 htop -u snandan
+  521  2022-04-13 09:23:22 screen -dr 254
+  522  2022-04-13 12:19:48 ls -ltrh datacard_oldtraining_v1/2016/res/spin2/*/fitdiagnostic/*txt
+  523  2022-04-13 12:19:58 ls -ltrh datacard_oldtraining_v1/2017/res/spin2/*/fitdiagnostic/*txt
+  524  2022-04-13 12:20:12 ls -ltrh datacard_oldtraining_v1/2018/res/spin2/*/fitdiagnostic/*txt
+  525  2022-04-13 12:20:38 root -l datacard_oldtraining_v1/2018/res/spin2/320/fitdiagnostic/fitDiagnostics_shapes_combine_320_spin2_all_2018.root 
+  526  2022-04-13 12:21:52 htop -u snandan
+  527  2022-04-13 12:23:12 root -l datacard_oldtraining_v1/2018/res/spin2/750/fitdiagnostic/fitDiagnostics_shapes_combine_750_spin2_all_2017.root 
+  528  2022-04-13 12:23:24 root -l datacard_oldtraining_v1/2017/res/spin2/750/fitdiagnostic/fitDiagnostics_shapes_combine_750_spin2_all_2017.root 
+  529  2022-04-13 12:23:38 htop -u snandan
+  530  2022-04-13 12:29:29 emacs -nw test.py
+  531  2022-04-13 12:31:51 python test.py >l.txt
+  532  2022-04-13 12:31:53 emacs -nw test.py
+  533  2022-04-13 12:32:01 screen -ls
+  534  2022-04-13 12:32:06 screen -r 218
+  535  2022-04-13 12:33:46 htop -u snandan
+  536  2022-04-13 12:35:01 screen -r 218
+  537  2022-04-13 12:45:49 htop -u snandan
+  538  2022-04-13 12:46:31 screen -r 218
+  539  2022-04-13 12:46:37 htop -u snandan
+  540  2022-04-13 09:34:18 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  541  2022-04-13 09:34:29 screen -ls
+  542  2022-04-13 09:34:31 screen -r 254
+  543  2022-04-13 09:34:34 screen -dr 254
+  544  2022-04-13 09:44:48 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  545  2022-04-13 09:44:54 htop -u snandan
+  546  2022-04-13 09:45:23 screen -dr 254
+  547  2022-04-13 09:45:48 htop -u snandan
+  548  2022-04-13 09:47:12 screen -dr 254
+  549  2022-04-13 09:47:22 htop -u snandan
+  550  2022-04-13 10:29:03 screen -dr 254
+  551  2022-04-13 10:29:06 screen -dr 7
+  552  2022-04-13 10:31:11 ls -ltrh datacard_oldtraining_v1/2016/res/spin2/400/fitdiagnostic/*pdf
+  553  2022-04-13 10:31:23 htop -u snandan
+  554  2022-04-13 10:47:38 screen -dr 7
+  555  2022-04-13 10:48:20 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  556  2022-04-13 10:48:28 htop -u snandan
+  557  2022-04-13 11:05:50 screen -dr 7
+  558  2022-04-13 11:08:24 cd cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/
+  559  2022-04-13 11:08:29 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/250/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/250/fitdiagnostic --unblind
+  560  2022-04-13 11:08:35 emacs -nw ~/command.txt
+  561  2022-04-13 11:08:44 emacs -nw ~/environment.txt
+  562  2022-04-13 11:08:52 source /cvmfs/cms.cern.ch/cmsset_default.sh
+  563  2022-04-13 11:08:54 cmsenv
+  564  2022-04-13 11:08:57 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/250/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/250/fitdiagnostic --unblind
+  565  2022-04-13 11:09:19 emacs -nw /home/snandan/datacard_oldtraining_v1/2018/res/spin2/250/fitdiagnostic/plot_dict.dat
+  566  2022-04-13 11:09:43 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/250/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/250/fitdiagnostic --unblind
+  567  2022-04-13 11:09:56 screen -dr 7
+  568  2022-04-13 11:12:26 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  569  2022-04-13 11:12:35 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  570  2022-04-13 11:12:49 htop -u snandan
+  571  2022-04-13 11:24:49 screen -dr 7
+  572  2022-04-13 11:27:00 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/270/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/270/fitdiagnostic --unblind
+  573  2022-04-13 11:27:17 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/280/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/280/fitdiagnostic --unblind
+  574  2022-04-13 11:27:35 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/300/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/300/fitdiagnostic --unblind
+  575  2022-04-13 11:27:51 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/320/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/320/fitdiagnostic --unblind
+  576  2022-04-13 11:28:08 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/350/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/350/fitdiagnostic --unblind
+  577  2022-04-13 11:28:31 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/400/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/400/fitdiagnostic --unblind
+  578  2022-04-13 11:28:48 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/450/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/450/fitdiagnostic --unblind
+  579  2022-04-13 11:29:05 screen -dr 7
+  580  2022-04-13 11:30:03 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/500/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/500/fitdiagnostic --unblind
+  581  2022-04-13 11:30:14 screen -dr 7
+  582  2022-04-13 11:30:55 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/550/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/550/fitdiagnostic --unblind
+  583  2022-04-13 11:31:01 htop
+  584  2022-04-13 11:53:00 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/550/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/550/fitdiagnostic --unblind
+  585  2022-04-13 11:53:24 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/400/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/400/fitdiagnostic --unblind --doPostFit
+  586  2022-04-13 11:54:01 htop
+  587  2022-04-13 11:57:00 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/500/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/500/fitdiagnostic --unblind --doPostFit
+  588  2022-04-13 11:57:14 screen -dr 7
+  589  2022-04-13 11:57:27 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/500/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/500/fitdiagnostic --unblind --doPostFit
+  590  2022-04-13 11:59:59 htop
+  591  2022-04-13 12:03:19 screen -dr 7
+  592  2022-04-13 12:04:32 python postfit_plots.py --plot_options_dict /home/snandan/datacard_oldtraining_v1/2018/res/spin2/650/fitdiagnostic/plot_dict.dat --output_folder /home/snandan/datacard_oldtraining_v1/2018/res/spin2/650/fitdiagnostic --unblind
+  593  2022-04-13 12:04:38 screen -dr 7
+  594  2022-04-13 13:48:37 screen -r 218
+  595  2022-04-13 13:52:13 htop -u snandan
+  596  2022-04-13 13:54:24 screen -r 218
+  597  2022-04-13 14:03:23 htop -u snandan
+  598  2022-04-13 14:04:03 screen -r 218
+  599  2022-04-13 14:04:22 htop -u snandan
+  600  2022-04-13 14:16:44 screen -r 218
+  601  2022-04-13 14:18:35 htop -u snandan
+  602  2022-04-13 14:25:43 screen -r 218
+  603  2022-04-13 14:25:47 screen -r 7
+  604  2022-04-13 14:26:58 htop -u snandan
+  605  2022-04-13 14:29:12 screen -r 218
+  606  2022-04-13 14:29:21 screen -r 7
+  607  2022-04-13 14:30:57 screen -ls
+  608  2022-04-13 14:31:02 screen -r 220
+  609  2022-04-13 14:31:05 screen -r 2201
+  610  2022-04-13 14:32:12 htop -u snandan
+  611  2022-04-13 14:39:20 screen -r 2201
+  612  2022-04-13 14:39:30 screen -r 7
+  613  2022-04-13 14:39:38 screen -r 2201
+  614  2022-04-13 14:40:46 htop -u snandan
+  615  2022-04-13 14:58:20 screen -r 7
+  616  2022-04-13 14:58:43 htop -u snandan
+  617  2022-04-13 15:07:25 screen -r 7
+  618  2022-04-13 15:07:30 screen -r 2201
+  619  2022-04-13 15:07:40 screen -r 218
+  620  2022-04-13 15:15:45 htop -u snandan
+  621  2022-04-13 15:15:51 screen -r 7
+  622  2022-04-13 15:15:57 htop -u snandan
+  623  2022-04-13 15:16:00 screen -r 218
+  624  2022-04-13 15:17:48 htop -u snandan
+  625  2022-04-13 15:24:36 htop -u tolange
+  626  2022-04-13 15:25:16 screen -r 218
+  627  2022-04-13 15:25:23 screen -r 2201
+  628  2022-04-13 15:25:41 screen -r 218
+  629  2022-04-13 15:26:29 htop -u tolange
+  630  2022-04-13 15:45:35 screen -r 7
+  631  2022-04-13 15:45:59 screen -r 2201
+  632  2022-04-13 15:46:39 htop -u snandan
+  633  2022-04-13 15:47:45 screen -r 2201
+  634  2022-04-13 15:47:58 htop -u snandan
+  635  2022-04-13 15:49:54 screen -r 2201
+  636  2022-04-13 15:50:16 htop -u snandan
+  637  2022-04-13 15:51:45 screen -r 2201
+  638  2022-04-13 15:51:57 htop -u snandan
+  639  2022-04-13 15:53:26 screen -r 2201
+  640  2022-04-13 15:53:50 htop -u snandan
+  641  2022-04-13 15:54:42 ls -ltrh datacard_oldtraining_v1/2016/res/spin0/*/fitdiagnostic/*txt
+  642  2022-04-13 15:54:56 ls -ltrh datacard_oldtraining_v1/2016/res/spin2/*/fitdiagnostic/*txt
+  643  2022-04-13 15:55:05 ls -ltrh datacard_oldtraining_v1/2017/res/spin2/*/fitdiagnostic/*txt
+  644  2022-04-13 15:55:21 ls -ltrh datacard_oldtraining_v1/2017/res/spin0/*/fitdiagnostic/*txt
+  645  2022-04-13 15:55:41 ls -ltrh datacard_oldtraining_v1/2018/res/spin0/*/fitdiagnostic/*txt
+  646  2022-04-13 15:56:05 ls -ltrh datacard_oldtraining_v1/2018/res/spin2/*/fitdiagnostic/*txt
+  647  2022-04-13 15:56:19 htop -u snandan
+  648  2022-04-13 15:56:25 screen -r 2201
+  649  2022-04-13 15:56:55 htop -u snandan
+  650  2022-04-13 15:58:25 scancel -u snandan
+  651  2022-04-13 15:58:27 screen -r 2201
+  652  2022-04-13 15:59:28 emacs -nw job.txt
+  653  2022-04-13 15:59:41 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  654  2022-04-13 15:59:44 screen -r 2201
+  655  2022-04-13 15:59:47 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  656  2022-04-13 15:59:50 screen -r 2201
+  657  2022-04-13 16:00:08 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  658  2022-04-13 16:00:17 screen -r 2201
+  659  2022-04-13 16:00:29 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  660  2022-04-13 16:00:34 htop -u snandan
+  661  2022-04-13 16:24:33 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  662  2022-04-13 16:24:46 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  663  2022-04-13 16:25:04 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | grep spin2 | wc -l
+  664  2022-04-13 16:25:07 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | grep spin0 | wc -l
+  665  2022-04-13 16:25:15 scancel -u snandan
+  666  2022-04-13 16:25:18 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  667  2022-04-13 16:25:22 screen -r 2201
+  668  2022-04-13 16:25:31 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  669  2022-04-13 16:25:36 htop -u snandan
+  670  2022-04-13 16:26:44 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  671  2022-04-13 16:26:47 screen -r 2201
+  672  2022-04-13 16:27:00 htop -u snandan
+  673  2022-04-13 16:35:11 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  674  2022-04-13 16:35:19 screen -ls
+  675  2022-04-13 16:35:24 screen -r 254
+  676  2022-04-13 16:40:30 htop -u snandan
+  677  2022-04-13 17:27:49 emacs -nw cmssw10/CMSSW_10_2_13/src/CombineHarvester/ttH_htt/configs/list_syst_HH.py
+  678  2022-04-13 17:29:23 htop -u snandan
+  679  2022-04-13 17:33:22 emacs -nw datacard_oldtraining_v1/2016/res/spin2/300/datacards_rebined/datacard_hh_bbww_sl_all_300_spin2_2016.txt 
+  680  2022-04-13 17:33:28 htop -u snandan
+  681  2022-04-13 17:55:10 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  682  2022-04-13 17:55:16 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  683  2022-04-13 17:55:20 htop -u snandan
+  684  2022-04-13 20:35:14 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  685  2022-04-13 20:35:17 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  686  2022-04-13 20:35:43 htop -u tolange
+  687  2022-04-13 21:07:24 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  688  2022-04-13 21:07:31 screen -r 7
+  689  2022-04-13 21:13:08 screen -ls
+  690  2022-04-13 21:13:12 screen -r 254
+  691  2022-04-13 21:13:16 screen -r 218
+  692  2022-04-13 21:17:04 htop -u snandan
+  693  2022-04-13 21:19:43 screen -r 218
+  694  2022-04-13 21:20:24 htop -u snandan
+  695  2022-04-13 21:21:40 screen -r 218
+  696  2022-04-13 21:30:02 htop -u snandan
+  697  2022-04-13 21:33:56 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  698  2022-04-13 21:33:59 htop -u snandan
+  699  2022-04-13 21:40:11 screen -r 218
+  700  2022-04-13 21:41:40 htop -u snandan
+  701  2022-04-13 23:35:11 screen -r 218
+  702  2022-04-13 23:36:28 htop -u snandan
+  703  2022-04-13 23:38:18 screen -r 218
+  704  2022-04-13 23:38:41 htop -u snandan
+  705  2022-04-13 23:40:01 screen -r 218
+  706  2022-04-13 23:40:21 htop -u snandan
+  707  2022-04-13 23:41:19 screen -r 218
+  708  2022-04-13 23:43:16 htop -u snandan
+  709  2022-04-14 07:33:25 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  710  2022-04-14 07:33:43 emacs -nw datacard_oldtraining_v1/Run2/res/spin2/250/fitdiagnostic/output_robust_shapes_combine_250_all_spin2.txt 
+  711  2022-04-14 07:34:11 emacs -nw datacard_oldtraining_v1/Run2/res/spin2/Makefile_stderr.log 
+  712  2022-04-14 07:34:17 emacs -nw datacard_oldtraining_v1/Run2/res/spin2/Makefile_stdout.log 
+  713  2022-04-14 07:34:34 emacs -nw /scratch-persistent/snandan/datacard_oldtraining_v1/Run2/res/spin2/250/fitdiagnostic/sbatch_fitdiagnostic_250_all_spin2.sh
+  714  2022-04-14 07:34:46 screen -r 218
+  715  2022-04-14 07:38:36 htop
+  716  2022-04-14 07:39:30 screen -r 218
+  717  2022-04-14 07:42:09 htop
+  718  2022-04-14 07:43:40 screen -r 218
+  719  2022-04-14 07:43:43 htop
+  720  2022-04-14 07:46:08 screen -r 218
+  721  2022-04-14 07:49:07 htop
+  722  2022-04-14 07:50:31 screen -r 218
+  723  2022-04-14 07:50:34 htop
+  724  2022-04-14 07:51:50 screen -r 218
+  725  2022-04-14 08:17:43 screen -r 218
+  726  2022-04-14 08:17:46 screen -dr 218
+  727  2022-04-14 08:20:47 htop -u snandan
+  728  2022-04-14 08:21:06 htop -u veelken
+  729  2022-04-14 08:21:15 htop -u tolange
+  730  2022-04-14 08:21:39 ls -ltrh /home/tolange/
+  731  2022-04-14 08:21:49 ls -ltrh /home/tolange/FWdevel/software/
+  732  2022-04-14 08:21:54 ls -ltrh /home/tolange/FWdevel/law/
+  733  2022-04-14 08:21:57 ls -ltrh /home/tolange/FWdevel/law/law
+  734  2022-04-14 08:22:02 ls -ltrh /home/tolange/FWdevel/law/law/workflow/
+  735  2022-04-14 08:22:11 screen -dr 218
+  736  2022-04-14 08:23:12 htop -u snandan
+  737  2022-04-14 08:23:34 screen -dr 218
+  738  2022-04-14 08:37:06 emacs -nw job.txt
+  739  2022-04-14 08:37:16 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  740  2022-04-14 08:37:22 screen -dr 218
+  741  2022-04-14 08:37:25 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  742  2022-04-14 08:37:36 htop -u snandan
+  743  2022-04-14 09:08:11 screen -dr 218
+  744  2022-04-14 09:08:23 htop -u snandan
+  745  2022-04-14 09:08:48 screen -dr 218
+  746  2022-04-14 09:10:07 htop -u snandan
+  747  2022-04-14 09:16:49 screen -dr 218
+  748  2022-04-14 09:18:07 htop -u snandan
+  749  2022-04-14 09:19:30 screen -dr 218
+  750  2022-04-14 09:20:23 htop -u snandan
+  751  2022-04-14 09:20:58 screen -dr 218
+  752  2022-04-14 09:21:26 htop -u snandan
+  753  2022-04-14 09:22:38 screen -dr 218
+  754  2022-04-14 09:22:47 htop -u snandan
+  755  2022-04-14 09:24:08 screen -dr 218
+  756  2022-04-14 09:24:53 htop -u snandan
+  757  2022-04-14 09:25:56 screen -dr 218
+  758  2022-04-14 09:26:04 htop -u snandan
+  759  2022-04-14 09:27:22 screen -dr 218
+  760  2022-04-14 09:28:27 htop -u snandan
+  761  2022-04-14 09:28:36 screen -dr 218
+  762  2022-04-14 09:29:13 emacs -nw datacard_oldtraining_v1/Run2/res/spin2/datacard/combine_all_FR2_250_spin2.txt 
+  763  2022-04-14 09:29:21 screen -dr 218
+  764  2022-04-14 09:30:54 htop -u snandan
+  765  2022-04-14 09:31:34 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"
+  766  2022-04-14 09:31:48 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" | wc -l
+  767  2022-04-14 09:31:50 htop -u snandan
+  768  2022-04-14 10:17:39 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  769  2022-04-14 10:17:42 htop -u snandan
+  770  2022-04-14 10:19:07 screen -dr 218
+  771  2022-04-14 10:19:47 htop -u snandan
+  772  2022-04-14 10:21:03 screen -dr 218
+  773  2022-04-14 10:22:04 htop -u snandan
+  774  2022-04-14 10:22:43 screen -dr 218
+  775  2022-04-14 10:23:33 htop -u snandan
+  776  2022-04-14 10:24:23 screen -dr 218
+  777  2022-04-14 10:27:50 htop -u snandan
+  778  2022-04-14 10:38:55 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  779  2022-04-14 10:38:57 screen -dr 218
+  780  2022-04-14 10:41:26 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  781  2022-04-14 10:41:36 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2016
+  782  2022-04-14 10:41:45 screen -dr 218
+  783  2022-04-14 10:42:17 htop -u snandan
+  784  2022-04-14 10:43:15 screen -ls 
+  785  2022-04-14 10:43:21 screen -dr 3011
+  786  2022-04-14 10:43:29 screen -dr 254
+  787  2022-04-14 10:49:24 htop -u snandan
+  788  2022-04-14 10:50:50 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2016
+  789  2022-04-14 10:51:00 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2016 | grep spin0
+  790  2022-04-14 10:51:04 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2016 | grep spin0 | wc -l
+  791  2022-04-14 10:51:09 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2017 | grep spin0 | wc -l
+  792  2022-04-14 10:51:17 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2018 | grep spin0 | wc -l
+  793  2022-04-14 10:51:20 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2018 | grep spin2 | wc -l
+  794  2022-04-14 10:51:26 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2017 | grep spin2 | wc -l
+  795  2022-04-14 10:51:30 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2016 | grep spin2 | wc -l
+  796  2022-04-14 10:51:48 screen -dr 3011
+  797  2022-04-14 10:51:53 screen -dr 218
+  798  2022-04-14 10:53:00 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2017 | grep spin2 | wc -l
+  799  2022-04-14 10:53:03 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2016 | grep spin2 | wc -l
+  800  2022-04-14 10:53:07 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2016 | grep spin2 
+  801  2022-04-14 10:53:15 htop -u snandan
+  802  2022-04-14 10:53:31 screen -dr 254
+  803  2022-04-14 10:55:29 htop -u snandan
+  804  2022-04-14 11:06:02 screen -dr 254
+  805  2022-04-14 11:07:03 htop -u snandan
+  806  2022-04-14 11:12:38 screen -dr 254
+  807  2022-04-14 11:13:46 htop -u snandan
+  808  2022-04-14 11:14:53 screen -dr 254
+  809  2022-04-14 11:19:47 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  810  2022-04-14 11:20:16 screen -dr 254
+  811  2022-04-14 11:22:55 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  812  2022-04-14 11:26:47 screen -dr 254
+  813  2022-04-14 11:29:41 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  814  2022-04-14 11:29:55 screen -dr 254
+  815  2022-04-14 11:30:05 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  816  2022-04-14 11:45:06 screen -dr 254
+  817  2022-04-14 11:46:16 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  818  2022-04-14 11:51:17 screen -dr 254
+  819  2022-04-14 11:51:53 ls -ltrh /home/veelken
+  820  2022-04-14 11:52:04 ls -ltrh /home/veelken/ttHAnalysis/
+  821  2022-04-14 11:52:10 ls -ltrh /home/veelken/newTallinnAnalysis/
+  822  2022-04-14 11:52:17 ls -ltrh /home/veelken/newTallinnAnalysis/CMSSW_11_1_2/src/TallinnNtupleProducer/Selectors/
+  823  2022-04-14 11:52:21 ls -ltrh /home/veelken/newTallinnAnalysis/CMSSW_11_1_2/src/TallinnNtupleProducer/Selectors/src/
+  824  2022-04-14 11:52:49 emacs -nw /home/veelken/newTallinnAnalysis/CMSSW_11_1_2/src/TallinnNtupleProducer/Selectors/src/RecoJetCollectionSelectorAK8_Hbb.cc
+  825  2022-04-14 11:53:01 ls -ltrh /home/veelken
+  826  2022-04-14 11:53:23 screen -dr 254
+  827  2022-04-14 11:54:41 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  828  2022-04-14 11:56:59 htop
+  829  2022-04-14 11:57:48 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  830  2022-04-14 11:57:53 htop
+  831  2022-04-14 11:59:24 emacs -nw test/CMSSW_11_1_2/src/PhysicsTools/NanoAODTools/python/postprocessing/modules/jme/jetmetUncertainties.py
+  832  2022-04-14 11:59:47 htop
+  833  2022-04-14 12:00:21 emacs -nw test/CMSSW_11_1_2/src/PhysicsTools/NanoAODTools/python/postprocessing/modules/jme/jetmetUncertainties.py
+  834  2022-04-14 12:01:46 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  835  2022-04-14 12:02:01 emacs -nw /home/snandan/test/CMSSW_11_1_2/src/PhysicsTools/NanoAODTools/data/jme/Summer16_07Aug2017_V11_MC / RegroupedV2_Summer16_07Aug2017_V11_MC_UncertaintySources_AK4PFchs.txt
+  836  2022-04-14 12:02:12 emacs -nw /home/snandan/test/CMSSW_11_1_2/src/PhysicsTools/NanoAODTools/data/jme/Summer16_07Aug2017_V11_MC/RegroupedV2_Summer16_07Aug2017_V11_MC_UncertaintySources_AK4PFchs.txt
+  837  2022-04-14 12:02:44 htop
+  838  2022-04-14 12:03:55 emacs -nw /home/snandan/test/CMSSW_11_1_2/src/PhysicsTools/NanoAODTools/data/jme/Summer16_07Aug2017_V11_MC/RegroupedV2_Summer16_07Aug2017_V11_MC_UncertaintySources_AK4PFchs.txt
+  839  2022-04-14 12:04:15 screen -dr 254
+  840  2022-04-14 12:07:03 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  841  2022-04-14 12:08:27 emacs -nw /home/snandan/test/CMSSW_11_1_2/src/PhysicsTools/NanoAODTools/data/jme/Summer16_07Aug2017_V11_MC/RegroupedV2_Summer16_07Aug2017_V11_MC_UncertaintySources_AK4PFchs.txt
+  842  2022-04-14 12:09:15 screen -dr 254
+  843  2022-04-14 12:09:23 htop
+  844  2022-04-14 12:11:18 emacs -nw /home/snandan/test/CMSSW_11_1_2/src/PhysicsTools/NanoAODTools/data/jme/Summer16_07Aug2017_V11_MC/RegroupedV2_Summer16_07Aug2017_V11_MC_UncertaintySources_AK4PFchs.txt
+  845  2022-04-14 12:12:01 emacs -nw test/CMSSW_11_1_2/src/PhysicsTools/NanoAODTools/python/postprocessing/modules/btv/btagSFProducer.py
+  846  2022-04-14 12:14:23 htop
+  847  2022-04-14 12:14:56 emacs -nw /home/snandan/test/CMSSW_11_1_2/src/PhysicsTools/NanoAODTools/data/jme/Summer16_07Aug2017_V11_MC/Summer16_07Aug2017_V11_MC_L2Relative_AK4PF.txt 
+  848  2022-04-14 12:15:34 screen -dr 254
+  849  2022-04-14 12:17:40 htop
+  850  2022-04-14 12:19:41 screen -dr 254
+  851  2022-04-14 12:19:52 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  852  2022-04-14 12:21:12 htop
+  853  2022-04-14 12:22:49 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  854  2022-04-14 12:23:16 htop
+  855  2022-04-14 12:27:28 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  856  2022-04-14 12:27:55 htop
+  857  2022-04-14 13:27:59 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  858  2022-04-14 13:28:05 screen -dr 254
+  859  2022-04-14 13:35:31 htop
+  860  2022-04-14 13:37:40 screen -dr 254
+  861  2022-04-14 13:39:06 htop
+  862  2022-04-14 13:46:05 screen -dr 254
+  863  2022-04-14 13:57:22 screen -dr 254
+  864  2022-04-14 14:09:47 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2016 | grep spin2 | wc -l
+  865  2022-04-14 14:09:55 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | grep 2016 | grep spin2 
+  866  2022-04-14 14:10:24 ls -ltrh datacard_oldtraining_v1/2016/res/spin2/250/fitdiagnostic/*root
+  867  2022-04-14 14:10:45 emacs -nw datacard_oldtraining_v1/2016/res/spin2/250/fitdiagnostic/output_robust_shapes_combine_250_spin2_all_2016.txt 
+  868  2022-04-14 14:11:18 root -l datacard_oldtraining_v1/2016/res/spin2/250/fitdiagnostic/fitDiagnostics_shapes_combine_250_spin2_all_2016.root 
+  869  2022-04-14 14:11:55 emacs -nw datacard_oldtraining_v1/2016/res/spin2/250/fitdiagnostic/output_robust_shapes_combine_250_spin2_all_2016.txt 
+  870  2022-04-14 14:12:21 emacs -nw /home/snandan/datacard_oldtraining_v1/2016/res/spin2/250/datacards_rebined/datacard_hh_bbww_sl_all_250_spin2_2016.txt
+  871  2022-04-14 14:12:33 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | wc -l
+  872  2022-04-14 14:12:37 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  
+  873  2022-04-14 14:12:41 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | wc -l
+  874  2022-04-14 14:12:50 htop -u snandan
+  875  2022-04-14 14:13:54 emacs -nw test/CMSSW_11_1_2/src/tthAnalysis/HiggsToTauTau/l.txt
+  876  2022-04-14 14:23:27 htop -u snandan
+  877  2022-04-14 14:32:31 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | wc -l
+  878  2022-04-14 14:32:44 screen -dr 7
+  879  2022-04-14 14:34:38 htop -u snandan
+  880  2022-04-14 14:35:02 screen -dr 7
+  881  2022-04-14 14:48:00 screen -dr 7
+  882  2022-04-14 14:50:18 htop -u snandan
+  883  2022-04-14 14:50:28 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  884  2022-04-14 14:50:32 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | wc -l
+  885  2022-04-14 14:50:35 htop -u snandan
+  886  2022-04-14 14:52:46 screen -dr 7
+  887  2022-04-14 14:52:56 htop -u snandan
+  888  2022-04-14 14:54:43 screen -dr 7
+  889  2022-04-14 14:56:21 htop -u snandan
+  890  2022-04-14 14:56:37 screen -dr 7
+  891  2022-04-14 14:57:08 htop -u snandan
+  892  2022-04-14 14:58:11 screen -dr 7
+  893  2022-04-14 14:58:37 htop -u snandan
+  894  2022-04-14 15:02:17 screen -dr 7
+  895  2022-04-14 15:02:58 htop -u snandan
+  896  2022-04-14 15:03:23 emacs -nw ~/datacard_oldtraining_v1/Run2/res/spin2/800/fitdiagnostic/output_robust_shapes_combine_800_all_spin2.txt 
+  897  2022-04-14 15:04:16 screen -dr 7
+  898  2022-04-14 15:09:10 scancel -u snandan
+  899  2022-04-14 15:09:18 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  900  2022-04-14 15:09:19 screen -dr 7
+  901  2022-04-14 15:10:15 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  902  2022-04-14 15:10:19 screen -dr 7
+  903  2022-04-14 15:10:55 emacs -nw ~/datacard_oldtraining_v1/Run2/res/spin2/datacard/combine_all_FR2_800_spin2.txt 
+  904  2022-04-14 15:11:41 scancel -u snandan
+  905  2022-04-14 15:11:43 screen -dr 7
+  906  2022-04-14 15:12:59 emacs -nw ~/datacard_oldtraining_v1/Run2/res/spin0/datacard/combine_all_FR2_800_spin0.txt 
+  907  2022-04-14 15:13:09 screen -dr 7
+  908  2022-04-14 15:15:49 rm ~/datacard_oldtraining_v1/Run2/res/spin0/datacard/*
+  909  2022-04-14 15:15:54 rm ~/datacard_oldtraining_v1/Run2/res/spin2/datacard/*
+  910  2022-04-14 15:15:56 screen -dr 7
+  911  2022-04-14 15:17:54 emacs -nw ~/datacard_oldtraining_v1/Run2/res/spin2/datacard/combine_all_FR2_800_spin2.txt 
+  912  2022-04-14 15:18:06 screen -dr 7
+  913  2022-04-14 15:18:35 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R" 
+  914  2022-04-14 15:18:44 screen -dr 7
+  915  2022-04-14 15:18:51 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | wc -l
+  916  2022-04-14 15:18:52 screen -dr 7
+  917  2022-04-14 15:21:03 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  | wc -l
+  918  2022-04-14 15:21:06 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  
+  919  2022-04-14 15:21:18 screen -dr 7
+  920  2022-04-14 15:21:22 squeue -u snandan --format="%.18i %.9P %.100j %.8u %.2t %.10M %.6D %R"  
+  921  2022-04-14 15:21:38 htop -u snandan
+  922  2022-04-14 15:30:09 cd combine_test/
+  923  2022-04-14 15:30:23 ls -ltrh
+  924  2022-04-14 15:30:44 git clone git@github.com:saswatinandan/datacard_production.git
+  925  2022-04-14 15:30:51 ls -ltrh
+  926  2022-04-14 15:30:56 cd datacard_production/
+  927  2022-04-14 15:31:00 git status
+  928  2022-04-14 15:31:15 emacs -nw test.txt
+  929  2022-04-14 15:31:22 git add test.txt
+  930  2022-04-14 15:31:28 git commit test.txt 
+  931  2022-04-14 15:31:34 git push
+  932  2022-04-14 15:31:50 git branch -b
+  933  2022-04-14 15:31:54 git branch
+  934  2022-04-14 15:32:10 git push
+  935  2022-04-14 15:32:20 git status
+  936  2022-04-14 15:34:55 git remote add origin git@github.com:saswatinandan/datacard_production.git
+  937  2022-04-14 15:35:09 cd combine_test/datacard_production/
+  938  2022-04-14 15:35:11 git remote add origin git@github.com:saswatinandan/datacard_production.git
+  939  2022-04-14 15:35:24 cd ../
+  940  2022-04-14 15:35:28 rm -r datacard_production/
+  941  2022-04-14 15:35:33 rm -rf datacard_production/
+  942  2022-04-14 15:35:46 git remote add origin git@github.com:saswatinandan/datacard_production.git
+  943  2022-04-14 15:37:00 git clone git@github.com:saswatinandan/datacard_production.git
+  944  2022-04-14 15:37:10 cd datacard_production/
+  945  2022-04-14 15:37:14 ls -ltrh
+  946  2022-04-14 15:37:19 git status
+  947  2022-04-14 15:38:14 git remote add origin git@github.com:saswatinandan/datacard_production.git
+  948  2022-04-14 15:48:45 cd datacard_production/
+  949  2022-04-14 15:48:55 cd combine_test/datacard_production/
+  950  2022-04-14 15:49:01 git status
+  951  2022-04-14 15:49:09 emacs -nw l.txt
+  952  2022-04-14 15:49:34 git commit l.txt
+  953  2022-04-14 15:49:45 git add l.txt
+  954  2022-04-14 15:49:46 git commit l.txt
+  955  2022-04-14 15:50:00 git remote add origin git@github.com:saswatinandan/datacard_production.git
+  956  2022-04-14 15:50:37 cd ../
+  957  2022-04-14 15:50:42 rm -r datacard_production/
+  958  2022-04-14 15:50:50 rm -rf datacard_production/
+  959  2022-04-14 15:50:58 git init
+  960  2022-04-14 15:51:20 git remote add origin git@github.com:saswatinandan/datacard_production.git
+  961  2022-04-14 15:51:29 emacs -nw  l.txt
+  962  2022-04-14 15:51:40 git add l.txt
+  963  2022-04-14 15:51:45 git commit l.txt
+  964  2022-04-14 15:51:50 git push
+  965  2022-04-14 15:52:02 git push --set-upstream origin master
+  966  2022-04-14 15:52:30 git branch -M main
+  967  2022-04-14 15:52:43 pwd
+  968  2022-04-14 15:52:47 ls -ltrh
+  969  2022-04-14 15:53:14 git remote add origin git@github.com:saswatinandan/datacard_production.git
+  970  2022-04-14 15:53:21 git branch -M main
+  971  2022-04-14 15:53:29 git push --set-upstream origin master
+  972  2022-04-14 15:56:59 ls -ltrh
+  973  2022-04-14 15:57:07 cd
+  974  2022-04-14 15:57:17 mkdir datacard_production
+  975  2022-04-14 15:57:23 emacs -nw l.txt
+  976  2022-04-14 15:57:30 git init
+  977  2022-04-14 15:57:35 git add l.txt
+  978  2022-04-14 15:57:47 git commit l.txt -m 'test'
+  979  2022-04-14 15:57:54 git remote add origin git@github.com:saswatinandan/datacard_production.git
+  980  2022-04-14 15:58:02 git push -u origin main
+  981  2022-04-14 15:59:06 git remote -v
+  982  2022-04-14 16:00:53 git remote set-url origin git@github.com:saswatinandan/datacard_production.git
+  983  2022-04-14 16:00:59 git push
+  984  2022-04-14 16:01:08 git push --set-upstream origin master
+  985  2022-04-14 16:01:15 git push
+  986  2022-04-14 16:01:24 htop
+  987  2022-04-14 16:03:39 git status
+  988  2022-04-14 16:03:51 ls -ltrh
+  989  2022-04-14 16:03:55 ls -ltrh .
+  990  2022-04-14 16:04:03 ls -ltrh -a
+  991  2022-04-14 16:04:19 rm -r .git
+  992  2022-04-14 16:04:27 rm -rf .git
+  993  2022-04-14 16:04:31 git status
+  994  2022-04-14 16:04:44 history | tee l.txt
+  995  2022-04-14 16:04:47 emacs -nw l.txt
+  996  2022-04-14 16:07:06 emacs -nw command.txt
+  997  2022-04-14 16:07:49 rm -rf datacard_production/
+  998  2022-04-14 16:07:54 cd combine_test/
+  999  2022-04-14 16:07:56 ls -ltrh
+ 1000  2022-04-14 16:08:15 cd
+ 1001  2022-04-14 16:33:48 cd combine_test/
+ 1002  2022-04-14 16:33:52 ls -ltrh
+ 1003  2022-04-14 16:33:56 ls -ltrh -a
+ 1004  2022-04-14 16:34:04 rm -rf .git/
+ 1005  2022-04-14 16:34:12 mkdir test
+ 1006  2022-04-14 16:34:24 git clone git@github.com:saswatinandan/datacard_production.git test/test
+ 1007  2022-04-14 16:34:32 emacs -nw l.txt
+ 1008  2022-04-14 16:34:54 cd test/test/
+ 1009  2022-04-14 16:35:00 mv ../../l.txt .
+ 1010  2022-04-14 16:35:06 git add l.txt
+ 1011  2022-04-14 16:35:11 git commit l.txt
+ 1012  2022-04-14 16:35:17 git commit l.txt -m 'test'
+ 1013  2022-04-14 16:35:25 git push
+ 1014  2022-04-14 16:35:59 git rm l.txt
+ 1015  2022-04-14 16:36:03 git push
+ 1016  2022-04-14 16:36:52 git pull
+ 1017  2022-04-14 16:37:07 history > l.txt
